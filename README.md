@@ -24,5 +24,9 @@ This is Ticker Tape website automation using Selenium. It uses Selenium in Java,
 * Selenium
   
 # Results
+### Get Number of Days WFH applied in the current Month
+![image](https://github.com/GemAyush/WFH-Automation-Assignment/assets/125482096/f62ccb75-0598-4a8e-bcf7-e0f19f8ce2a2)
+
+### QA Team Employee
 ![image](https://github.com/GemAyush/WFH-Automation-Assignment/assets/125482096/47856aa1-d264-41dc-bdb3-454cb359ef76)
 
