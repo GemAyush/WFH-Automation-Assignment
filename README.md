@@ -1,5 +1,5 @@
 # WFH Appliance-Automation on MIS
-This is Ticker Tape website automation using Selenium. It uses Selenium in Java, Cucumber to create a feature file and apache.POI dependency to dump data in excel.
+This is WFH Automation on MIS Portal using Selenium. It uses Selenium in Java, Cucumber to create a feature file and stores data of QA Team in JSON format at end.
 
 # Project SetUp
 1. Clone this repository.
