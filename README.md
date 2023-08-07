@@ -9,8 +9,9 @@ This is Ticker Tape website automation using Selenium. It uses Selenium in Java,
 
 # Run the Project
 1. Post performing the above mentioned steps open the project in any editor of your choice(I have used IntelliJ for building this project).
-2. Navigate to the Runner file under `src/main/java/RunnerFiles/Runner`.
-3. Hit the Run Button.
+2. Go to Feature file and write your email address and password in place of `email@geminisolutions.com` and `password`.
+3. Navigate to the Runner file under `src/main/java/RunnerFiles/Runner`.
+4. Hit the Run Button.
 
 # Project Structure
 1. `src/main/java/RunnerFiles` It contains the Runner file which glue the Stepdefinition and the feature file together.
@@ -24,6 +25,9 @@ This is Ticker Tape website automation using Selenium. It uses Selenium in Java,
 * Selenium
   
 # Results
+### Apply for WFH
+![image](https://github.com/GemAyush/WFH-Automation-Assignment/assets/125482096/27819983-ed38-4e79-8d6f-386e468ea354)
+
 ### Get Number of Days WFH applied in the current Month
 ![image](https://github.com/GemAyush/WFH-Automation-Assignment/assets/125482096/f62ccb75-0598-4a8e-bcf7-e0f19f8ce2a2)
 
