@@ -55,8 +55,8 @@ public class QAEmployeeDirDefinition {
         }
     }
 
-    @And("Store the data into JOSN")
-    public void storeTheDataIntoJOSN() throws IOException {
+    @And("Store the data into JSON")
+    public void storeTheDataIntoJSON() throws IOException {
         FileOutputStream fos = new FileOutputStream("src/main/resources/data.json");
         fos.write(jsonArray.toString().getBytes());
         fos.close();
